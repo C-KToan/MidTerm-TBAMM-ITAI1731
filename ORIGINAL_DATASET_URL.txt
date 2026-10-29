@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/jethwaaatmik/telco-customer-churn-dataset?resource=download
+
+
